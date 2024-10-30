@@ -1,0 +1,21 @@
+.blp-wrapper {
+    width: 100%;
+}
+.blp-selection-box {
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    z-index: 0;
+    float: left;
+}
+
+#blp-preview-pane .blp-preview-container {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.blp-frame {
+    position: absolute;
+    width: 200px;
+}

@@ -1,0 +1,26 @@
+.cover_photo_upload {
+    padding: 5px 20px 5px 20px;
+    background: #006799;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #fff;
+}
+.blp_note {
+    font-size: 13px;
+    margin-top: 6px;
+    float: left;
+}
+.blp_shortcode_section {
+    background: #000;
+    color: #fff;
+    padding: 15px 0px 15px 15px;
+}
+.blp-paid-info {
+    padding: 20px;
+    line-height: 30px;
+    font-size: 15px;
+}
+.blp-money {
+    font-weight: bold;
+    font-size: 18px;
+}
